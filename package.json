@@ -1,0 +1,18 @@
+{
+  "name": "slot-habanero",
+  "main": "./lib/slot-habanero",
+  "version": "1.0.0",
+  "description": "Kumpulan Game Gacor Coba Link Demo Slot Habanero Free Spin No Deposit",
+  "keywords": ["slot joker gaming","bandar slot online","joker gaming","games slot gampang menang","spade gaming","agentotoplay slot","agentoto slot"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-habanero:toggle"
+  },
+  "repository": "https://github.com/slotinjector/slot-habanero",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

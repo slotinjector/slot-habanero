@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-habanero",
+        "command": "slot-habanero:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-habanero",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-habanero:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
