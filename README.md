@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Kode Rahasia Coba Link Demo Slot Habanero Demo Mudah](https://atom.io/packages/slot-habanero)
-## :thumbsup: klik untuk [Dapatkan Akun Gacor](https://agentotoplay.net/register/) :ok_hand: <<< 
-## :fire: klik untuk [Dapatkan Promo Anda Hari Ini](https://agentotoplay.net/) :star2: <<< 
-## :point_right: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/) :ok_hand: <<< 
+## :thumbsup: klik untuk [Dapatkan Akun Gacor](https://golinkurl.github.io/register/) :ok_hand: <<< 
+## :fire: klik untuk [Dapatkan Promo Anda Hari Ini](https://golinkurl.github.io/) :star2: <<< 
+## :point_right: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/) :ok_hand: <<< 
 
 ## Informasi Situs /Server Kami : 
 
